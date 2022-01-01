@@ -26,7 +26,7 @@ Download the corresponding WebDriver and put it in the directory of main.py
 
 ## Execute
 
-The program is going to search all the shoppers within the range of the address for a time slot before and on the month/day. It will automatically refresh the webpage after each search. After it finds a suitable time slot, it will select it and play an alarm sound.
+The program is going to search all the Shoppers within the range of the address for a time slot before and on the month/day. It will automatically refresh the webpage after each search. After it finds a suitable time slot, it will select it and play an alarm sound.
 
 ```bash
 python main.py --range_km <RANGE IN KM> --location <LOCATION> --month <MONTH> --day <DAY>
