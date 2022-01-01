@@ -20,7 +20,7 @@ Download the corresponding WebDriver and put it in the directory of main.py
 ## Parameters
 
 - `range_km` The maximum range of shoppers in km. Default 20km.
-- `location` The address you want to search around.
+- `location` The address you want to search around. Default "386 Yonge St, Toronto".
 - `month` The month to get test. Default 1.
 - `day` The day to get test. Default 1.
 
